@@ -31,3 +31,13 @@ The University Athletes Information Management System is a cutting-edge software
  - Two-Factor Authentication (2FA): The inclusion of Two-Factor Authentication (2FA) adds an extra layer of security to the system. This feature enhances the safeguarding of user accounts by requiring additional verification steps during the login process. It effectively protects user credentials from unauthorized access, further bolstering the security of the system.
 
 In conclusion, the University Athletes Information Management System is a comprehensive and user-focused software solution that transforms how universities in Central Luzon manage their athletes, sports teams, and participation in sports events. It streamlines processes, enhances security, and empowers universities, coaches, and athletes alike, creating a more efficient and organized sports management ecosystem.
+
+
+
+#### Proponents 
+
+- Rupert Caingal - Project manager and Full Stack Developer
+- Laurence Jade Javier -  QA 
+- Ernest Sacdal - System Analyst
+- John Ken Talusan - Backend Developer and System Analyst
+
